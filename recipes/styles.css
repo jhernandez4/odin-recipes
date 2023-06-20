@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(41, 41, 41);
+}
+
+.title{
+    background-color:rgb(43, 74, 143);
+    color: white;
+}
+
+.points{
+    background-color:rgb(25, 80, 38);
+}
+.content, ul li, ol, li{
+    background-color:rgb(25, 80, 38);
+    color: white;
+    font-family: "Monaco", Arial, Verdana;
+}
