@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(41, 41, 41);
+}
+
+img {
+    align-items: center;
+}
+.title {
+    background-color: rgb(189, 189, 189);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.list {
+    background-color: rgb(189, 189, 189);
+    color: white;
+    text-align: center;
+}
+
+.list-element {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
