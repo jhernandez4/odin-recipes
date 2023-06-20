@@ -11,7 +11,7 @@ body {
     background-color:rgb(25, 80, 38);
 }
 
-.content, ul li, ol, li {
+.content, ul li, ol li {
     background-color:rgb(25, 80, 38);
     color: white;
     font-family: Arial, Verdana;
