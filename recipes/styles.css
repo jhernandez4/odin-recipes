@@ -2,17 +2,44 @@ body {
     background-color: rgb(41, 41, 41);
 }
 
+.image{
+    display: block;
+    margin: 8px auto;
+}
+
 .title {
     background-color:rgb(43, 74, 143);
     color: white;
+    text-align: center;
+    width: 300px;
+    margin: 15px auto;
+    font-weight:bold;
+}
+.sub-title{
+    background-color:rgb(142, 178, 255);
+    color: rgb(3, 12, 146);
+    text-align: center;
+    width: 300px;
+    margin: 15px auto;
 }
 
+.credit{
+    background-color: white;
+    color: black;
+    margin: 8px auto;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+}
 .points {
     background-color:rgb(25, 80, 38);
+    width: auto;
+    margin: 8px auto;
 }
 
 .content, ul li, ol li {
     background-color:rgb(25, 80, 38);
     color: white;
+    text-align: left;
     font-family: Arial, Verdana;
 }
